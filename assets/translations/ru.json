@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Метро Праги",
+    "tagline": "Офлайн-карта метро и маршруты"
+  },
+  "map": {
+    "from": "Откуда",
+    "to": "Куда",
+    "searchStations": "Поиск станций...",
+    "clearSelection": "Очистить",
+    "openInMaps": "Открыть карту",
+    "coordinatesMissing": "Координаты этой станции пока недоступны.",
+    "tapFirstStation": "Выберите станцию отправления",
+    "tapSecondStation": "Выберите станцию назначения"
+  },
+  "route": {
+    "title": "Маршрут",
+    "transfer": "Пересадка",
+    "time": "{minutes} мин",
+    "transfers_zero": "Без пересадок",
+    "transfers_one": "{count} пересадка",
+    "transfers_few": "{count} пересадки",
+    "transfers_many": "{count} пересадок",
+    "stationsCount": "{count} станций",
+    "sameStation": "Вы уже здесь",
+    "noRoute": "Маршрут недоступен"
+  },
+  "station": {
+    "line": "Линия",
+    "transfers": "Пересадки",
+    "exits": "Выходы",
+    "nearbyPlaces": "Места рядом",
+    "transport": "Транспорт",
+    "buses": "Автобусы",
+    "trolleybuses": "Троллейбусы",
+    "trams": "Трамваи",
+    "interestingPlaces": "Исторические, культурные и интересные места",
+    "surfaceTransport": "Наземный транспорт",
+    "notes": "Примечания",
+    "coordinates": "Координаты",
+    "sources": "Источники",
+    "confidence": "Достоверность",
+    "verified": "Проверено",
+    "exitDataMissing": "Данные о выходах пока не добавлены.",
+    "transportDataMissing": "Данные о наземном транспорте пока не добавлены.",
+    "schedule": "График работы",
+    "firstTrain": "Первый поезд",
+    "lastTrain": "Последний поезд",
+    "intervals": "Интервалы",
+    "weekday": "Будни",
+    "saturday": "Суббота",
+    "sunday": "Воскресенье"
+  },
+  "lines": {
+    "line_a": "Линия A",
+    "line_b": "Линия B",
+    "line_c": "Линия C"
+  },
+  "search": {
+    "placeholder": "Поиск станций...",
+    "noResults": "Станции не найдены",
+    "recent": "Недавние поиски"
+  },
+  "feedback": {
+    "contactPrompt": "Есть вопросы, ошибки или идеи?\nМы всегда рады обратной связи!",
+    "writeUs": "Написать нам",
+    "sharePrompt": "Будем благодарны, если вы поделитесь приложением с друзьями!",
+    "ratePrompt": "Если вам нравится приложение, оцените нас в Google Play!\nВаша поддержка помогает нам становиться лучше.",
+    "rateAction": "Оставить отзыв",
+    "rateDialogTitle": "Нравится Метро Праги?",
+    "rateDialogBody": "Пожалуйста, оставьте отзыв в Google Play. Это помогает приложению развиваться и становиться лучше.",
+    "privacyPolicy": "Политика конфиденциальности",
+    "reviewUnavailable": "Страница магазина недоступна на этом устройстве.",
+    "privacyUnavailable": "Ссылка на политику конфиденциальности пока не настроена.",
+    "emailUnavailable": "Почтовое приложение недоступно или email поддержки пока не настроен.",
+    "emailSubject": "Отзыв о Метро Праги"
+  },
+  "settings": {
+    "title": "Настройки",
+    "language": "Язык"
+  },
+  "common": {
+    "close": "Закрыть",
+    "back": "Назад",
+    "ok": "OK",
+    "cancel": "Отмена",
+    "loading": "Загрузка...",
+    "offline": "Офлайн-режим"
+  }
+}

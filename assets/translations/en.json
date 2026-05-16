@@ -1,0 +1,89 @@
+{
+  "app": {
+    "title": "Prague Metro",
+    "tagline": "Offline metro map & route planner"
+  },
+  "map": {
+    "from": "From",
+    "to": "To",
+    "searchStations": "Search stations...",
+    "clearSelection": "Clear",
+    "openInMaps": "Open map",
+    "coordinatesMissing": "Coordinates are not available for this station yet.",
+    "tapFirstStation": "Tap a station to start",
+    "tapSecondStation": "Tap destination station"
+  },
+  "route": {
+    "title": "Route",
+    "transfer": "Transfer",
+    "time": "{minutes} min",
+    "transfers_zero": "No transfers",
+    "transfers_one": "{count} transfer",
+    "transfers_other": "{count} transfers",
+    "stationsCount": "{count} stations",
+    "sameStation": "You're already here",
+    "noRoute": "No route available"
+  },
+  "station": {
+    "line": "Line",
+    "transfers": "Transfers",
+    "exits": "Exits",
+    "nearbyPlaces": "Nearby places",
+    "transport": "Transport",
+    "buses": "Buses",
+    "trolleybuses": "Trolleybuses",
+    "trams": "Trams",
+    "interestingPlaces": "Historical, cultural and interesting places",
+    "surfaceTransport": "Surface transport",
+    "notes": "Notes",
+    "coordinates": "Coordinates",
+    "sources": "Sources",
+    "confidence": "Confidence",
+    "verified": "Verified",
+    "exitDataMissing": "Exit data has not been added yet.",
+    "transportDataMissing": "Surface transport data has not been added yet.",
+    "schedule": "Schedule",
+    "firstTrain": "First train",
+    "lastTrain": "Last train",
+    "intervals": "Intervals",
+    "weekday": "Weekdays",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "lines": {
+    "line_a": "Line A",
+    "line_b": "Line B",
+    "line_c": "Line C"
+  },
+  "search": {
+    "placeholder": "Search stations...",
+    "noResults": "No stations found",
+    "recent": "Recent searches"
+  },
+  "feedback": {
+    "contactPrompt": "Questions, bugs or ideas?\nWe are always happy to hear your feedback!",
+    "writeUs": "Write to us",
+    "sharePrompt": "We would be grateful if you share the app with friends!",
+    "ratePrompt": "If you like our app, rate us in Google Play!\nYour support helps us become better.",
+    "rateAction": "Leave feedback",
+    "rateDialogTitle": "Enjoying Prague Metro?",
+    "rateDialogBody": "Please leave feedback on Google Play. It helps the app grow and improve.",
+    "privacyPolicy": "Privacy policy",
+    "reviewUnavailable": "Store page is not available on this device.",
+    "privacyUnavailable": "Privacy policy link is not configured yet.",
+    "emailUnavailable": "Email app is not available or support email is not configured yet.",
+    "emailSubject": "Prague Metro feedback"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language"
+  },
+  "common": {
+    "close": "Close",
+    "back": "Back",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "offline": "Offline mode"
+  }
+}

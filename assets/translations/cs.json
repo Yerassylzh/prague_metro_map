@@ -1,0 +1,89 @@
+{
+  "app": {
+    "title": "Prazske metro",
+    "tagline": "Offline mapa metra a planovac tras"
+  },
+  "map": {
+    "from": "Odkud",
+    "to": "Kam",
+    "searchStations": "Hledat stanice...",
+    "clearSelection": "Vymazat",
+    "openInMaps": "Otevrit mapu",
+    "coordinatesMissing": "Souradnice pro tuto stanici zatim nejsou k dispozici.",
+    "tapFirstStation": "Vyberte vychozi stanici",
+    "tapSecondStation": "Vyberte cilovou stanici"
+  },
+  "route": {
+    "title": "Trasa",
+    "transfer": "Prestup",
+    "time": "{minutes} min",
+    "transfers_zero": "Bez prestupu",
+    "transfers_one": "{count} prestup",
+    "transfers_other": "{count} prestupu",
+    "stationsCount": "{count} stanic",
+    "sameStation": "Uz jste tady",
+    "noRoute": "Trasa neni k dispozici"
+  },
+  "station": {
+    "line": "Linka",
+    "transfers": "Prestupy",
+    "exits": "Vychody",
+    "nearbyPlaces": "Mista v okoli",
+    "transport": "Doprava",
+    "buses": "Autobusy",
+    "trolleybuses": "Trolejbusy",
+    "trams": "Tramvaje",
+    "interestingPlaces": "Historicka, kulturni a zajimava mista",
+    "surfaceTransport": "Povrchova doprava",
+    "notes": "Poznamky",
+    "coordinates": "Souradnice",
+    "sources": "Zdroje",
+    "confidence": "Spolehlivost",
+    "verified": "Overeno",
+    "exitDataMissing": "Udaje o vychodech zatim nebyly pridany.",
+    "transportDataMissing": "Udaje o povrchove doprave zatim nebyly pridany.",
+    "schedule": "Jizdni rad",
+    "firstTrain": "Prvni vlak",
+    "lastTrain": "Posledni vlak",
+    "intervals": "Intervaly",
+    "weekday": "Vsedni dny",
+    "saturday": "Sobota",
+    "sunday": "Nedele"
+  },
+  "lines": {
+    "line_a": "Linka A",
+    "line_b": "Linka B",
+    "line_c": "Linka C"
+  },
+  "search": {
+    "placeholder": "Hledat stanice...",
+    "noResults": "Zadne stanice nenalezeny",
+    "recent": "Nedavna hledani"
+  },
+  "feedback": {
+    "contactPrompt": "Mate otazky, chyby nebo napady?\nRadi uslysime vasi zpetnou vazbu!",
+    "writeUs": "Napis nam",
+    "sharePrompt": "Budeme radi, kdyz aplikaci doporucite pratelum!",
+    "ratePrompt": "Pokud se vam aplikace libi, ohodnotte nas na Google Play!\nVase podpora nam pomaha zlepsovat se.",
+    "rateAction": "Zanechat hodnoceni",
+    "rateDialogTitle": "Libi se vam Prazske metro?",
+    "rateDialogBody": "Zanechte prosim hodnoceni na Google Play. Pomaha aplikaci rust a zlepsovat se.",
+    "privacyPolicy": "Zasady ochrany osobnich udaju",
+    "reviewUnavailable": "Stranka obchodu neni na tomto zarizeni dostupna.",
+    "privacyUnavailable": "Odkaz na zasady ochrany osobnich udaju zatim neni nastaven.",
+    "emailUnavailable": "Emailova aplikace neni dostupna nebo neni nastaven email podpory.",
+    "emailSubject": "Zpetna vazba k Prazskemu metru"
+  },
+  "settings": {
+    "title": "Nastaveni",
+    "language": "Jazyk"
+  },
+  "common": {
+    "close": "Zavrit",
+    "back": "Zpet",
+    "ok": "OK",
+    "cancel": "Zrusit",
+    "loading": "Nacitam...",
+    "offline": "Offline rezim"
+  }
+}
